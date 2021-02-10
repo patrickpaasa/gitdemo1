@@ -1,0 +1,30 @@
+{
+  "name": "gitdemo1",
+  "version": "1.0.0",
+  "description": "A simple node application to demonstrate weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/patrickpaasa/gitdemo1.git"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "js",
+    "first",
+    "git",
+    "github"
+  ],
+  "author": "D.Laboriki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/patrickpaasa/gitdemo1/issues"
+  },
+  "homepage": "https://github.com/patrickpaasa/gitdemo1#readme",
+  "dependencies": {
+    "weather-js": "^2.0.0"
+  }
+}
